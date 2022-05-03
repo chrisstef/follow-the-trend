@@ -1,4 +1,4 @@
-# follow-the-trend 🚀
+## follow-the-trend 🚀
 
 A trading bot made with Python, which executes orders on trend changes.
 
@@ -11,7 +11,7 @@ As the name suggests, 'Supertrend' is a trend-following indicator.
 The bot is connected with binance by utilizing binanceAPI.
 
 
-# Dependencies 🛠
+## Install Dependencies 🛠
 
 Install Python dependencies provided in the `requirements.txt` file.
 
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 
-# Create user configuration 🔑
+## Create user configuration 🔑
 
 All of the options provided in `config.py` should be configured.
 
@@ -69,7 +69,7 @@ If you want to disable paper-trading, head to the main file: `FTT.py`, comment o
 ```
 
 
-# Deploy 🤖
+## Deploy Bot 🤖
 
 Run the following line in the project directory: 
 
@@ -80,7 +80,7 @@ python FTT.py
 Exit at any time with `Ctrl+C`.
 
 
-# Disclaimer ✔
+## Disclaimer ✔
 
 This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. I ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.
 
