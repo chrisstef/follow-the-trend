@@ -60,6 +60,14 @@ LOGS_DISPLAYED = 20
 
 After configuration is being made, save file `Ctrl+S` and exit.
 
+Note: The bot is trading paper-money by default, to prevent any loss.
+
+If you want to disable paper-trading, head to the main file: `FTT.py`, comment out line 22, save and exit.
+
+```
+#exchange.set_sandbox_mode(True)
+```
+
 
 # Deploy 🤖
 
