@@ -78,7 +78,7 @@ python FTT.py
 ```
 An instance of the bot running on the above settings:
 
-<img src="bot.png" alt="Alt text" title="Optional title" width="400" height="400">
+<img src="bot.png" alt="Alt text" title="Optional title" width=auto height="400">
 
 
 Exit at any time with `Ctrl+C`.
