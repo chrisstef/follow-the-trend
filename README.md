@@ -8,7 +8,7 @@ A 'Supertrend' indicator is one, which can give you precise buy or sell signal i
 
 As the name suggests, 'Supertrend' is a trend-following indicator.
 
-The bot is connected with binance by utilizing binanceAPI.
+The bot is connected with Binance by utilizing BinanceAPI.
 
 
 ## Install Dependencies 🛠
